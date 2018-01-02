@@ -2,7 +2,7 @@
 title: woso 
 description: woso's journey
 cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
+logo: assets/images/logo.jpg
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://woso.github.io/" # the base hostname & protocol for your site
