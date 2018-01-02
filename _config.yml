@@ -38,13 +38,13 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
+username: woso #github username
+repo: woso #github repository
 branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
-production_url:  https://samanyougarg.com/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+relative_source: ../woso/ #source directory
+destination: ../woso-pages/ #destination directory
+production_url: https://woso.github.io/
+source_url:  https://woso.github.io/woso #source repository url
 
 exclude:
   - README.md
